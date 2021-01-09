@@ -1,0 +1,10 @@
+{
+  "name": "screenshot-generator",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "chrome-aws-lambda": "5.2.1",
+    "puppeteer-core": "5.2.1"
+  }
+}
